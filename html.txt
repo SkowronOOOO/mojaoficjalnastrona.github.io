@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Index – Moja pierwsza strona  strona</title>
+</head>
+  <body>
+      <h1>Witaj na mojej stronie
+
+
+        Twórca strony: Bartosz Skowroński 
+      </h1>
+  </body>
+</html>
